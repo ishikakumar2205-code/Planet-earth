@@ -1,0 +1,28 @@
+<html> 
+    <head> 
+        <title> Planet Erath <title>
+        </head>
+        <body> 
+
+            <h1> Planet earth, Quick guide.</h1>
+            <p> Our planet is full of incredible records, species, and facts. Here is a quick quide using lists! </p>
+
+            <h2> Steps to protect our planet:<h2>
+                <ul>
+                    <li>Amazon Rainforest - Home to 10% of all species on Earth</li>
+                    <li>Spread awareness - Tell your friends or family</li>
+                    <li>Help growth - Plant a tree in you town or neighbourhood</li>
+                </ul>
+                <h2>Key terms</h2>
+                <dl>
+                    <dt>Climate change</dt>
+                    <dd> Long term shifts in weather caused by natural human activity.</dd>
+                    
+                    <dt>Renable energy</dt>
+                    <dd> Energy from natural sources like sunlight and wind that never run out.</dd>
+                    
+                    <dt>Biodiversity</dt>
+                    <dd> The variety of all living species on earth.</dd>
+                </dl>
+        </body>
+</html>
